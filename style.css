@@ -1,0 +1,45 @@
+
+
+body {
+    /* background-color: blue; */
+    margin: 0;
+}
+
+p, ul, li {
+    line-height: 1.4;
+    font-size: 17px;
+}
+
+.container {
+    margin: 25px;
+    background-color: blue;
+}
+
+.head {
+    background-color: grey;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    letter-spacing: 1.5px;
+}
+
+img {
+    float: left;
+    margin-right: 20px;
+}
+
+.middle {
+    background-color: blue;
+}
+
+.col-1 {
+    float: left;
+    width: 55%;
+    padding: 20px;
+}
+
+.col-2 {
+    float: right;
+    width: 35%;
+    padding: 20px;
+}
